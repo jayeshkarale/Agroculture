@@ -7,9 +7,9 @@ directly, while buyers can purchase them easily through the platform.
 
 ------------------------------------------------------------------------
 ## 📸 Live Demo
-🔗[GitHub live project](https://jayeshkarale.github.io/web-calculator/)
+🔗[GitHub live project](https://jayeshkarale.github.io/)
 
-🔗[Netlify Link](https://jayesh-web-calculator.netlify.app/)
+🔗[Netlify Link](https://agroculture-web.netlify.app/)
 
 ------------------------------------------------------------------------
 
