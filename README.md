@@ -6,6 +6,12 @@ AgroCulture is a simple web-based platform designed to connect
 directly, while buyers can purchase them easily through the platform.
 
 ------------------------------------------------------------------------
+## 📸 Live Demo
+🔗[GitHub live project](https://jayeshkarale.github.io/web-calculator/)
+
+🔗[Netlify Link](https://jayesh-web-calculator.netlify.app/)
+
+------------------------------------------------------------------------
 
 ## 🚀 Features
 
