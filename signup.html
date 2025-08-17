@@ -1,0 +1,50 @@
+<!-- Login page of Agrocultute Web -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AgroCulture Sign up</title>
+  <link rel="stylesheet" href="styles.css">
+  
+</head>
+<body>
+
+  <div class="navbar">
+    <img class="logo" src="assets/logo.png" alt="main-logo">
+    </div>
+  </div>
+
+  <div class="login-modal" role="dialog" aria-labelledby="loginTitle" aria-modal="true">
+    <div class="modal-content">
+    
+      <h2 id="loginTitle">Sign up</h2>
+      <form>
+        <div class="category">
+          <label>Category:</label>
+          <label><input type="radio" name="category" value="farmer" checked> Farmer</label>
+          <label><input type="radio" name="category" value="buyer"> Buyer</label>
+        </div>
+
+        <label>Enter your Name</label>
+        <input type="text" placeholder="Your Name" name="username" aria-label="Username" required>
+
+         <label>Enter your Email</label>
+        <input type="text" placeholder="Your Email" name="username" aria-label="Username" required>
+
+        <label>Create your Password</label>
+        <input type="password" placeholder="Password" name="password" aria-label="Password" required>
+        
+        <button type="submit">Sign up</button>
+        <br><hr>
+
+        <div class="signup">
+        <a href="index.html" style="text-decoration: none; color: black">Back to Log in</a>
+        </div>
+
+      </form>
+    </div>
+  </div>
+
+</body>
+</html>
